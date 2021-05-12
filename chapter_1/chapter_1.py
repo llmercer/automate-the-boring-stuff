@@ -1,4 +1,4 @@
-print(2+2)
+
 first_name = "Lauren"
 
 last_name = "Mercer"
